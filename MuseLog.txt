@@ -1,0 +1,1355 @@
+Logging in build 2018.0.0.685 started at: Fri Nov 24 20:35:58 2017
+========================================
+[00:00:41.141] 20:36:48.482 | quitWithUI:Quitting Application. Called by: 
+[00:00:41.141] 20:36:48.485 | Quitting Application after 0.5 minutes. Called by: 
+[00:00:42.156] 20:36:49.501 | MuseLibraryManager::localOnComplete Muse App is shutting down, cant save user converted library
+[00:00:44.969] Logging shutdown normally
+
+==========
+Logging ended at: Fri Nov 24 20:36:52 2017
+
+Logging in build 2018.0.0.685 started at: Fri Nov 24 20:38:56 2017
+========================================
+[00:00:06.281] 20:39:02.886 | Error - IMS : IMSLib not loaded
+[00:00:09.390] 20:39:05.998 | Trying to open file 'F:\CICA\Proyecto\index.muse with size:4456448 mod Date:Thu Nov 23 19:03:46 GMT-0500 2017
+[00:00:09.422] 20:39:06.036 | Opening file 'F:\CICA\Proyecto\index.muse' with status:success size:4456448 mod Date:Thu Nov 23 19:03:46 GMT-0500 2017 highestUID: 899
+[00:00:10.562] 20:39:07.170 | Converting from file format 244 to format 379 for file:F:\CICA\Proyecto\index.muse
+Logging in build 2018.0.0.685 started at: Fri Nov 24 21:57:06 2017
+========================================
+[01:18:09.937] 21:57:06.515 | Trying to open file 'C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Free Template.muse with size:4521984 mod Date:Thu Oct 30 22:16:26 GMT-0500 2014
+[01:18:10.000] 21:57:06.592 | Opening file 'C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Free Template.muse' with status:success size:4521984 mod Date:Thu Oct 30 22:16:26 GMT-0500 2014 highestUID: 1461
+
+==========
+Logging ended at: Fri Nov 24 21:57:07 2017
+
+[01:18:11.140] 21:57:07.757 | Converting from file format 284 to format 379 for file:C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Free Template.muse
+Logging in build 2018.0.0.685 started at: Fri Nov 24 21:59:34 2017
+========================================
+[01:20:37.828] 21:59:34.441 | Trying to open file 'C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Business Template.muse with size:3670016 mod Date:Fri Sep 19 10:47:02 GMT-0500 2014
+[01:20:37.844] 21:59:34.447 | Opening file 'C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Business Template.muse' with status:success size:3670016 mod Date:Fri Sep 19 10:47:02 GMT-0500 2014 highestUID: 675
+
+==========
+Logging ended at: Fri Nov 24 21:59:34 2017
+
+[01:20:38.859] 21:59:35.467 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Business Template.muse
+Logging in build 2018.0.0.685 started at: Fri Nov 24 22:03:51 2017
+========================================
+[01:24:55.094] 22:03:51.704 | Trying to open file 'C:\Users\Administrador\Desktop\Nueva carpeta\Muse Theme Template.muse with size:7864320 mod Date:Fri Sep 26 12:46:24 GMT-0500 2014
+[01:24:55.094] 22:03:51.710 | Opening file 'C:\Users\Administrador\Desktop\Nueva carpeta\Muse Theme Template.muse' with status:success size:7864320 mod Date:Fri Sep 26 12:46:24 GMT-0500 2014 highestUID: 1168
+
+==========
+Logging ended at: Fri Nov 24 22:03:51 2017
+
+[01:24:55.984] 22:03:52.591 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\Nueva carpeta\Muse Theme Template.muse
+Logging in build 2018.0.0.685 started at: Fri Nov 24 22:05:15 2017
+========================================
+[01:26:19.094] 22:05:15.701 | Trying to open file 'C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Landing Page.muse with size:5505024 mod Date:Sat Sep 13 12:09:46 GMT-0500 2014
+[01:26:19.094] 22:05:15.708 | Opening file 'C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Landing Page.muse' with status:success size:5505024 mod Date:Sat Sep 13 12:09:46 GMT-0500 2014 highestUID: 1281
+
+==========
+Logging ended at: Fri Nov 24 22:05:15 2017
+
+[01:26:19.953] 22:05:16.565 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\Nueva carpeta\Adobe Muse Landing Page.muse
+Logging in build 2018.0.0.685 started at: Fri Nov 24 22:06:31 2017
+========================================
+[01:27:34.547] 22:06:31.155 | Trying to open file 'C:\Users\Administrador\Desktop\Nueva carpeta\Holiday Template\Holiday.muse with size:11108352 mod Date:Sun May 18 10:50:34 GMT-0500 2014
+[01:27:34.562] 22:06:31.169 | Opening file 'C:\Users\Administrador\Desktop\Nueva carpeta\Holiday Template\Holiday.muse' with status:success size:11108352 mod Date:Sun May 18 10:50:34 GMT-0500 2014 highestUID: 2682
+
+==========
+Logging ended at: Fri Nov 24 22:06:31 2017
+
+[01:27:35.515] 22:06:32.127 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Desktop\Nueva carpeta\Holiday Template\Holiday.muse
+Logging in build 2018.0.0.685 started at: Fri Nov 24 22:24:22 2017
+========================================
+[01:45:25.797] 22:24:22.400 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\SABAR.muse with size:11108352 mod Date:Sun May 18 10:50:34 GMT-0500 2014
+[01:45:25.797] 22:24:22.412 | Opening file 'C:\Users\Administrador\Desktop\proyect\SABAR.muse' with status:success size:11108352 mod Date:Sun May 18 10:50:34 GMT-0500 2014 highestUID: 2682
+
+==========
+Logging ended at: Fri Nov 24 22:24:22 2017
+
+[01:45:28.000] 22:24:24.607 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Desktop\proyect\SABAR.muse
+Logging in build 2018.0.0.685 started at: Fri Nov 24 22:25:19 2017
+========================================
+[01:46:22.781] 22:25:19.394 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\index.muse with size:11108352 mod Date:Sun May 18 10:50:34 GMT-0500 2014
+[01:46:22.797] 22:25:19.407 | Opening file 'C:\Users\Administrador\Desktop\proyect\index.muse' with status:success size:11108352 mod Date:Sun May 18 10:50:34 GMT-0500 2014 highestUID: 2682
+
+==========
+Logging ended at: Fri Nov 24 22:25:19 2017
+
+[01:46:23.937] 22:25:20.546 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Desktop\proyect\index.muse
+[02:07:44.187] 22:46:40.805 | Beginning SaveAs of 'index' to file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:3336
+[02:07:48.250] 22:46:44.854 | SaveAs complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:7995392 mod Date:Fri Nov 24 22:46:44 GMT-0500 2017 highest UID:3336
+[03:02:45.515] 23:41:42.130 | Beginning SaveAs of 'index' to file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:3657
+[03:02:47.609] 23:41:44.224 | SaveAs complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:8880128 mod Date:Fri Nov 24 23:41:44 GMT-0500 2017 highest UID:3657
+[03:51:15.453] 00:30:12.069 | Beginning SaveAs of 'index' to file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:3801
+[03:51:17.781] 00:30:14.399 | SaveAs complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:8749056 mod Date:Sat Nov 25 00:30:14 GMT-0500 2017 highest UID:3801
+[03:51:21.469] 00:30:18.084 | quitWithUI:Quitting Application. Called by: 
+[03:51:34.422] 00:30:31.036 | Beginning SaveAs of 'index' to file 'F:\CICA\Proyecto\index.muse' highest UID:1192
+[03:51:41.062] 00:30:37.676 | SaveAs complete for file 'F:\CICA\Proyecto\index.muse' file size:4292608 mod Date:Sat Nov 25 00:30:38 GMT-0500 2017 highest UID:1192
+[03:51:42.344] 00:30:38.961 | Quitting Application after 231.6 minutes. Called by: 
+Logging in build 2018.0.0.685 started at: Tue Nov 28 13:03:02 2017
+========================================
+[00:00:11.890] 13:03:15.332 | Error - IMS : IMSLib not loaded
+[00:00:21.718] 13:03:25.160 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\index.muse with size:8749056 mod Date:Sat Nov 25 00:30:14 GMT-0500 2017
+[00:00:21.734] 13:03:25.175 | Opening file 'C:\Users\Administrador\Desktop\proyect\index.muse' with status:success size:8749056 mod Date:Sat Nov 25 00:30:14 GMT-0500 2017 highestUID: 3801
+[01:09:51.093] 14:12:54.450 | quitWithUI:Quitting Application. Called by: 
+[01:10:19.453] 14:13:22.898 | Quitting Application after 70.2 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+onCloseComplete+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent
+[01:12:11.906] Logging shutdown normally
+
+==========
+Logging ended at: Tue Nov 28 14:15:20 2017
+
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:28:32 2017
+========================================
+[00:00:11.375] 21:28:45.354 | Error - IMS : IMSLib not loaded
+[00:00:21.500] 21:28:55.473 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\beauty-muse-theme\Beauty Muse Theme.muse with size:1736704 mod Date:Thu Sep 24 21:34:22 GMT-0500 2015
+[00:00:21.500] 21:28:55.478 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\beauty-muse-theme\Beauty Muse Theme.muse' with status:success size:1736704 mod Date:Thu Sep 24 21:34:22 GMT-0500 2015 highestUID: 411
+[00:00:25.422] 21:28:59.404 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\beauty-muse-theme\Beauty Muse Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:30:43 2017
+========================================
+[00:02:09.234] 21:30:43.219 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-templates\Adobe Muse Templates.muse with size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015
+[00:02:09.250] 21:30:43.224 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-templates\Adobe Muse Templates.muse' with status:success size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015 highestUID: 461
+[00:02:10.234] 21:30:44.218 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-templates\Adobe Muse Templates.muse
+
+==========
+Logging ended at: Tue Nov 28 21:30:44 2017
+
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:31:46 2017
+========================================
+[00:03:12.797] 21:31:46.782 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse with size:3670016 mod Date:Thu Sep 24 15:57:04 GMT-0500 2015
+[00:03:12.812] 21:31:46.786 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse' with status:success size:3670016 mod Date:Thu Sep 24 15:57:04 GMT-0500 2015 highestUID: 675
+
+==========
+Logging ended at: Tue Nov 28 21:31:47 2017
+
+[00:03:13.812] 21:31:47.793 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:34:16 2017
+========================================
+[00:05:42.187] 21:34:16.160 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse with size:5275648 mod Date:Thu Sep 24 15:57:30 GMT-0500 2015
+[00:05:42.187] 21:34:16.171 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse' with status:success size:5275648 mod Date:Thu Sep 24 15:57:30 GMT-0500 2015 highestUID: 2477
+
+==========
+Logging ended at: Tue Nov 28 21:34:16 2017
+
+[00:05:43.031] 21:34:17.014 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:36:21 2017
+========================================
+[00:07:47.500] 21:36:21.482 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme\Adobe Muse Free Theme.muse with size:3211264 mod Date:Tue Aug 5 20:46:10 GMT-0500 2014
+[00:07:47.515] 21:36:21.488 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme\Adobe Muse Free Theme.muse' with status:success size:3211264 mod Date:Tue Aug 5 20:46:10 GMT-0500 2014 highestUID: 4426
+
+==========
+Logging ended at: Tue Nov 28 21:36:21 2017
+
+[00:07:48.797] 21:36:22.780 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme\Adobe Muse Free Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:38:09 2017
+========================================
+[00:09:35.031] 21:38:09.008 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse with size:3211264 mod Date:Thu Sep 24 21:55:47 GMT-0500 2015
+[00:09:35.031] 21:38:09.014 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse' with status:success size:3211264 mod Date:Thu Sep 24 21:55:47 GMT-0500 2015 highestUID: 4426
+
+==========
+Logging ended at: Tue Nov 28 21:38:09 2017
+
+[00:09:36.344] 21:38:10.316 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:39:02 2017
+========================================
+[00:10:28.078] 21:39:02.053 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse with size:5505024 mod Date:Thu Sep 24 16:09:17 GMT-0500 2015
+[00:10:28.078] 21:39:02.058 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse' with status:success size:5505024 mod Date:Thu Sep 24 16:09:17 GMT-0500 2015 highestUID: 1281
+
+==========
+Logging ended at: Tue Nov 28 21:39:02 2017
+
+[00:10:29.094] 21:39:03.069 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:39:30 2017
+========================================
+[00:10:56.734] 21:39:30.715 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse with size:7438336 mod Date:Thu Sep 24 16:09:53 GMT-0500 2015
+[00:10:56.750] 21:39:30.721 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse' with status:success size:7438336 mod Date:Thu Sep 24 16:09:53 GMT-0500 2015 highestUID: 2681
+
+==========
+Logging ended at: Tue Nov 28 21:39:30 2017
+
+[00:10:57.562] 21:39:31.544 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:40:45 2017
+========================================
+[00:12:11.859] 21:40:45.831 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse with size:5767168 mod Date:Thu Sep 24 16:10:38 GMT-0500 2015
+[00:12:11.859] 21:40:45.843 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse' with status:success size:5767168 mod Date:Thu Sep 24 16:10:38 GMT-0500 2015 highestUID: 1229
+
+==========
+Logging ended at: Tue Nov 28 21:40:45 2017
+
+[00:12:12.875] 21:40:46.860 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:43:16 2017
+========================================
+[00:14:42.094] 21:43:16.078 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-blog-theme\Adobe Muse Blog Theme.muse with size:3178496 mod Date:Thu Sep 24 21:32:59 GMT-0500 2015
+[00:14:42.109] 21:43:16.083 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-blog-theme\Adobe Muse Blog Theme.muse' with status:success size:3178496 mod Date:Thu Sep 24 21:32:59 GMT-0500 2015 highestUID: 953
+
+==========
+Logging ended at: Tue Nov 28 21:43:16 2017
+
+[00:14:43.031] 21:43:17.009 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-blog-theme\Adobe Muse Blog Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:44:34 2017
+========================================
+[00:16:01.031] 21:44:35.015 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse with size:4521984 mod Date:Thu Sep 24 21:33:37 GMT-0500 2015
+[00:16:01.047] 21:44:35.026 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse' with status:success size:4521984 mod Date:Thu Sep 24 21:33:37 GMT-0500 2015 highestUID: 1461
+
+==========
+Logging ended at: Tue Nov 28 21:44:35 2017
+
+[00:16:01.812] 21:44:35.788 | Converting from file format 284 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:44:43 2017
+========================================
+[00:16:09.250] 21:44:43.229 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-landing-page calidad\adobe muse landing page.muse with size:5701632 mod Date:Thu Sep 24 21:34:01 GMT-0500 2015
+[00:16:09.265] 21:44:43.241 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-landing-page calidad\adobe muse landing page.muse' with status:success size:5701632 mod Date:Thu Sep 24 21:34:01 GMT-0500 2015 highestUID: 1330
+
+==========
+Logging ended at: Tue Nov 28 21:44:43 2017
+
+[00:16:10.234] 21:44:44.206 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-landing-page calidad\adobe muse landing page.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:45:58 2017
+========================================
+[00:17:24.406] 21:45:58.388 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe-Muse-Online-Store\Adobe Muse Online Store.muse with size:1703936 mod Date:Thu Sep 24 21:34:08 GMT-0500 2015
+[00:17:24.422] 21:45:58.393 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe-Muse-Online-Store\Adobe Muse Online Store.muse' with status:success size:1703936 mod Date:Thu Sep 24 21:34:08 GMT-0500 2015 highestUID: 977
+
+==========
+Logging ended at: Tue Nov 28 21:45:58 2017
+
+[00:17:25.625] 21:45:59.605 | Converting from file format 284 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe-Muse-Online-Store\Adobe Muse Online Store.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:46:31 2017
+========================================
+[00:17:57.312] 21:46:31.291 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-templates\Adobe Muse Templates.muse with size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015
+[00:17:57.312] 21:46:31.296 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-templates\Adobe Muse Templates.muse' with status:success size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015 highestUID: 461
+
+==========
+Logging ended at: Tue Nov 28 21:46:31 2017
+
+[00:17:58.219] 21:46:32.198 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\adobe-muse-templates\Adobe Muse Templates.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:46:39 2017
+========================================
+[00:18:06.000] 21:46:39.981 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\beauty-muse-theme\Beauty Muse Theme.muse with size:1736704 mod Date:Thu Sep 24 21:34:22 GMT-0500 2015
+[00:18:06.015] 21:46:39.986 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\beauty-muse-theme\Beauty Muse Theme.muse' with status:success size:1736704 mod Date:Thu Sep 24 21:34:22 GMT-0500 2015 highestUID: 411
+
+==========
+Logging ended at: Tue Nov 28 21:46:39 2017
+
+[00:18:07.172] 21:46:41.142 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\beauty-muse-theme\Beauty Muse Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:46:49 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:46:49 2017
+
+[00:18:16.625] 21:46:50.610 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\car-template\car template.muse with size:2424832 mod Date:Thu Sep 24 21:34:30 GMT-0500 2015
+[00:18:16.640] 21:46:50.621 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\car-template\car template.muse' with status:success size:2424832 mod Date:Thu Sep 24 21:34:30 GMT-0500 2015 highestUID: 807
+[00:18:17.594] 21:46:51.571 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\car-template\car template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:48:00 2017
+========================================
+[00:19:26.344] 21:48:00.329 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\clean-web-design\Clean Web Design.muse with size:6160384 mod Date:Thu Sep 24 21:34:38 GMT-0500 2015
+[00:19:26.359] 21:48:00.341 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\clean-web-design\Clean Web Design.muse' with status:success size:6160384 mod Date:Thu Sep 24 21:34:38 GMT-0500 2015 highestUID: 1059
+
+==========
+Logging ended at: Tue Nov 28 21:48:00 2017
+
+[00:19:27.359] 21:48:01.330 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\clean-web-design\Clean Web Design.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:49:01 2017
+========================================
+[00:20:27.515] 21:49:01.498 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\fashion-template\Fashion Template.muse with size:2392064 mod Date:Thu Sep 24 21:34:45 GMT-0500 2015
+[00:20:27.531] 21:49:01.508 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\fashion-template\Fashion Template.muse' with status:success size:2392064 mod Date:Thu Sep 24 21:34:45 GMT-0500 2015 highestUID: 385
+
+==========
+Logging ended at: Tue Nov 28 21:49:01 2017
+
+[00:20:28.422] 21:49:02.398 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\fashion-template\Fashion Template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:49:21 2017
+========================================
+[00:20:47.265] 21:49:21.248 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Flat Muse Website Template mola\Flat Muse Website Template.muse with size:3506176 mod Date:Thu Sep 24 16:08:04 GMT-0500 2015
+[00:20:47.281] 21:49:21.258 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Flat Muse Website Template mola\Flat Muse Website Template.muse' with status:success size:3506176 mod Date:Thu Sep 24 16:08:04 GMT-0500 2015 highestUID: 1725
+
+==========
+Logging ended at: Tue Nov 28 21:49:21 2017
+
+[00:20:47.984] 21:49:21.956 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Flat Muse Website Template mola\Flat Muse Website Template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:49:29 2017
+========================================
+[00:20:55.578] 21:49:29.563 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Adobe Muse Template\Free Adobe Muse Template.muse with size:5537792 mod Date:Thu Sep 24 21:34:58 GMT-0500 2015
+[00:20:55.594] 21:49:29.575 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Adobe Muse Template\Free Adobe Muse Template.muse' with status:success size:5537792 mod Date:Thu Sep 24 21:34:58 GMT-0500 2015 highestUID: 1194
+
+==========
+Logging ended at: Tue Nov 28 21:49:29 2017
+
+[00:20:56.734] 21:49:30.710 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Adobe Muse Template\Free Adobe Muse Template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:49:36 2017
+========================================
+[00:21:02.672] 21:49:36.657 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Muse Features Block\Free Muse Features Block.muse with size:720896 mod Date:Wed Jul 30 23:49:52 GMT-0500 2014
+[00:21:02.687] 21:49:36.662 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Muse Features Block\Free Muse Features Block.muse' with status:success size:720896 mod Date:Wed Jul 30 23:49:52 GMT-0500 2014 highestUID: 711
+
+==========
+Logging ended at: Tue Nov 28 21:49:36 2017
+
+[00:21:03.812] 21:49:37.794 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Muse Features Block\Free Muse Features Block.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:49:44 2017
+========================================
+[00:21:10.250] 21:49:44.229 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Muse Theme\Free Muse Theme.muse with size:3866624 mod Date:Thu Sep 24 21:35:05 GMT-0500 2015
+[00:21:10.265] 21:49:44.239 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Muse Theme\Free Muse Theme.muse' with status:success size:3866624 mod Date:Thu Sep 24 21:35:05 GMT-0500 2015 highestUID: 725
+
+==========
+Logging ended at: Tue Nov 28 21:49:44 2017
+
+[00:21:11.344] 21:49:45.326 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Free Muse Theme\Free Muse Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:52:30 2017
+========================================
+[00:23:56.984] 21:52:30.967 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\free-website-design posible\free website design.muse with size:4947968 mod Date:Thu Sep 24 15:56:20 GMT-0500 2015
+[00:23:57.000] 21:52:30.978 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\free-website-design posible\free website design.muse' with status:success size:4947968 mod Date:Thu Sep 24 15:56:20 GMT-0500 2015 highestUID: 865
+
+==========
+Logging ended at: Tue Nov 28 21:52:30 2017
+
+[00:23:57.906] 21:52:31.878 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\free-website-design posible\free website design.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:53:33 2017
+========================================
+[00:24:59.484] 21:53:33.455 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Grill Template\Grill.muse with size:3244032 mod Date:Mon May 12 09:12:54 GMT-0500 2014
+[00:24:59.484] 21:53:33.461 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Grill Template\Grill.muse' with status:success size:3244032 mod Date:Mon May 12 09:12:54 GMT-0500 2014 highestUID: 699
+
+==========
+Logging ended at: Tue Nov 28 21:53:33 2017
+
+[00:25:00.625] 21:53:34.600 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Grill Template\Grill.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:53:41 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:53:41 2017
+
+[00:25:08.390] 21:53:42.376 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\holiday no me gusta\Holiday Template\Holiday.muse with size:11108352 mod Date:Sun Sep 27 13:04:31 GMT-0500 2015
+[00:25:08.406] 21:53:42.386 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\holiday no me gusta\Holiday Template\Holiday.muse' with status:success size:11108352 mod Date:Sun Sep 27 13:04:31 GMT-0500 2015 highestUID: 2682
+[00:25:09.547] 21:53:43.526 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\holiday no me gusta\Holiday Template\Holiday.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:53:51 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:53:51 2017
+
+[00:25:20.000] 21:53:53.972 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\landing-page-template\Landing Page Template.muse with size:1900544 mod Date:Thu Sep 24 16:08:50 GMT-0500 2015
+[00:25:20.000] 21:53:53.982 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\landing-page-template\Landing Page Template.muse' with status:success size:1900544 mod Date:Thu Sep 24 16:08:50 GMT-0500 2015 highestUID: 744
+[00:25:21.422] 21:53:55.405 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\landing-page-template\Landing Page Template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:54:05 2017
+========================================
+[00:25:31.625] 21:54:05.605 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse Free Web Theme bonita\Muse Free Web Theme.muse with size:4849664 mod Date:Thu Sep 24 21:35:13 GMT-0500 2015
+[00:25:31.640] 21:54:05.617 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse Free Web Theme bonita\Muse Free Web Theme.muse' with status:success size:4849664 mod Date:Thu Sep 24 21:35:13 GMT-0500 2015 highestUID: 938
+
+==========
+Logging ended at: Tue Nov 28 21:54:05 2017
+
+[00:25:32.750] 21:54:06.723 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse Free Web Theme bonita\Muse Free Web Theme.muse
+[00:25:33.578] 21:54:07.561 | File contains one or more objects with multiple owners. Attempting repairs.
+
+[00:25:33.578] 21:54:07.561 | U675 RectPageItem is owned by U673 Layer  U703 Group  
+[00:25:33.578] 21:54:07.561 | Successfully repaired U675 RectPageItem
+[00:25:33.578] 21:54:07.561 | U773 TextFrame is owned by U771 Layer  U774 Group  
+[00:25:33.578] 21:54:07.561 | Successfully repaired U773 TextFrame
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:56:29 2017
+========================================
+[00:27:55.094] 21:56:29.072 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse NonProfit Theme\Muse NonProfit Theme.muse with size:2097152 mod Date:Thu Sep 24 21:35:20 GMT-0500 2015
+[00:27:55.094] 21:56:29.077 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse NonProfit Theme\Muse NonProfit Theme.muse' with status:success size:2097152 mod Date:Thu Sep 24 21:35:20 GMT-0500 2015 highestUID: 651
+
+==========
+Logging ended at: Tue Nov 28 21:56:29 2017
+
+[00:27:56.125] 21:56:30.102 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse NonProfit Theme\Muse NonProfit Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:57:03 2017
+========================================
+[00:28:29.984] 21:57:03.959 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse Theme Template\Muse Theme Template.muse with size:7864320 mod Date:Thu Sep 24 21:35:27 GMT-0500 2015
+[00:28:29.984] 21:57:03.969 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse Theme Template\Muse Theme Template.muse' with status:success size:7864320 mod Date:Thu Sep 24 21:35:27 GMT-0500 2015 highestUID: 1168
+
+==========
+Logging ended at: Tue Nov 28 21:57:03 2017
+
+[00:28:30.969] 21:57:04.952 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Muse Theme Template\Muse Theme Template.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:57:09 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:57:09 2017
+
+[00:28:36.406] 21:57:10.378 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\muse-landing-page\Muse Landing Page.muse with size:3014656 mod Date:Thu Sep 24 21:35:34 GMT-0500 2015
+[00:28:36.406] 21:57:10.383 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\muse-landing-page\Muse Landing Page.muse' with status:success size:3014656 mod Date:Thu Sep 24 21:35:34 GMT-0500 2015 highestUID: 1578
+[00:28:37.734] 21:57:11.713 | Converting from file format 284 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\muse-landing-page\Muse Landing Page.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:57:16 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:57:16 2017
+
+[00:28:43.453] 21:57:17.434 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\muse-one-page si\Muse One Page.muse with size:2162688 mod Date:Thu Sep 24 21:35:42 GMT-0500 2015
+[00:28:43.453] 21:57:17.439 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\muse-one-page si\Muse One Page.muse' with status:success size:2162688 mod Date:Thu Sep 24 21:35:42 GMT-0500 2015 highestUID: 440
+[00:28:44.297] 21:57:18.276 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\muse-one-page si\Muse One Page.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:57:22 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:57:22 2017
+
+[00:28:49.281] 21:57:23.259 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\musgreen\Musgreen.muse with size:4521984 mod Date:Thu Sep 24 21:35:58 GMT-0500 2015
+[00:28:49.281] 21:57:23.264 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\musgreen\Musgreen.muse' with status:success size:4521984 mod Date:Thu Sep 24 21:35:58 GMT-0500 2015 highestUID: 375
+[00:28:51.078] 21:57:25.056 | Converting from file format 310 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\musgreen\Musgreen.muse
+[00:28:55.094] 21:57:29.075 | Error - IMS : IMSLib not loaded
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:57:29 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:57:29 2017
+
+[00:28:57.875] 21:57:31.848 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\One Page Muse Template\One Page Muse Template.muse with size:4882432 mod Date:Thu Sep 24 21:36:04 GMT-0500 2015
+[00:28:57.875] 21:57:31.854 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\One Page Muse Template\One Page Muse Template.muse' with status:success size:4882432 mod Date:Thu Sep 24 21:36:04 GMT-0500 2015 highestUID: 1785
+[00:28:58.781] 21:57:32.764 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\One Page Muse Template\One Page Muse Template.muse
+[00:29:44.547] 21:58:18.526 | Error - IMS : IMSLib not loaded
+[00:29:48.844] 21:58:22.818 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:29:48.844] 21:58:22.828 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:29:48.859] 21:58:22.844 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:06.422] 21:58:40.400 | Error - IMS : IMSLib not loaded
+[00:30:14.594] 21:58:48.577 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:14.719] 21:58:48.691 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:14.719] 21:58:48.701 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:14.734] 21:58:48.711 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:14.953] 21:58:48.927 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:14.953] 21:58:48.933 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:14.969] 21:58:48.942 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:14.969] 21:58:48.948 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:30:15.015] 21:58:48.993 | Error - IMS : IMSLib not loaded
+[00:30:32.500] 21:59:06.481 | Error - IMS : IMSLib not loaded
+[00:30:47.375] 21:59:21.359 | Error - IMS : IMSLib not loaded
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:59:31 2017
+========================================
+[00:30:57.203] 21:59:31.178 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\One Page Photography Resume\One Page Photography Resume.muse with size:4063232 mod Date:Wed Sep 3 14:49:00 GMT-0500 2014
+[00:30:57.203] 21:59:31.184 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\One Page Photography Resume\One Page Photography Resume.muse' with status:success size:4063232 mod Date:Wed Sep 3 14:49:00 GMT-0500 2014 highestUID: 584
+
+==========
+Logging ended at: Tue Nov 28 21:59:31 2017
+
+[00:30:58.344] 21:59:32.320 | Error - IMS : IMSLib not loaded
+[00:30:58.344] 21:59:32.323 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\One Page Photography Resume\One Page Photography Resume.muse
+[00:31:03.625] 21:59:37.603 | Error - IMS : IMSLib not loaded
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:59:38 2017
+========================================
+[00:31:04.750] 21:59:38.723 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\one-page-template\One Page Template.muse with size:6848512 mod Date:Thu Sep 24 21:36:18 GMT-0500 2015
+[00:31:04.750] 21:59:38.734 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\one-page-template\One Page Template.muse' with status:success size:6848512 mod Date:Thu Sep 24 21:36:18 GMT-0500 2015 highestUID: 710
+
+==========
+Logging ended at: Tue Nov 28 21:59:38 2017
+
+[00:31:05.859] 21:59:39.835 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\one-page-template\One Page Template.muse
+[00:31:06.015] 21:59:39.998 | Error - IMS : IMSLib not loaded
+Logging in build 2018.0.0.685 started at: Tue Nov 28 21:59:45 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 21:59:45 2017
+
+[00:31:15.750] 21:59:49.726 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\parallax-web-design\parallax web design.muse with size:5505024 mod Date:Thu Sep 24 21:36:27 GMT-0500 2015
+[00:31:15.765] 21:59:49.737 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\parallax-web-design\parallax web design.muse' with status:success size:5505024 mod Date:Thu Sep 24 21:36:27 GMT-0500 2015 highestUID: 647
+[00:31:16.609] 21:59:50.580 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\parallax-web-design\parallax web design.muse
+[00:31:23.844] 21:59:57.817 | Error - IMS : IMSLib not loaded
+Logging in build 2018.0.0.685 started at: Tue Nov 28 22:00:03 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 22:00:03 2017
+
+Logging in build 2018.0.0.685 started at: Tue Nov 28 22:00:11 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 22:00:11 2017
+
+[00:31:37.547] 22:00:11.533 | Error - IMS : IMSLib not loaded
+[00:31:39.672] 22:00:13.650 | Error - IMS : IMSLib not loaded
+[00:31:39.750] 22:00:13.736 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Personal Resume Adobe Muse Theme\Personal Resume Adobe Muse Theme\Personal Resume Adobe Muse Theme.muse with size:2162688 mod Date:Thu Sep 24 21:36:32 GMT-0500 2015
+[00:31:39.765] 22:00:13.742 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Personal Resume Adobe Muse Theme\Personal Resume Adobe Muse Theme\Personal Resume Adobe Muse Theme.muse' with status:success size:2162688 mod Date:Thu Sep 24 21:36:32 GMT-0500 2015 highestUID: 1410
+[00:31:39.890] 22:00:13.871 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Resume Template personal\Resume Template.muse with size:7962624 mod Date:Thu Sep 24 21:36:40 GMT-0500 2015
+[00:31:39.906] 22:00:13.882 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Resume Template personal\Resume Template.muse' with status:success size:7962624 mod Date:Thu Sep 24 21:36:40 GMT-0500 2015 highestUID: 1362
+[00:31:40.890] 22:00:14.861 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Personal Resume Adobe Muse Theme\Personal Resume Adobe Muse Theme\Personal Resume Adobe Muse Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 22:00:21 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 22:00:21 2017
+
+[00:31:47.390] 22:00:21.367 | Error - IMS : IMSLib not loaded
+[00:31:47.734] 22:00:21.717 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\soul theme\Soul Free.muse with size:4784128 mod Date:Sat Feb 6 13:47:04 GMT-0500 2016
+[00:31:47.750] 22:00:21.722 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\soul theme\Soul Free.muse' with status:success size:4784128 mod Date:Sat Feb 6 13:47:04 GMT-0500 2016 highestUID: 2123
+[00:31:49.250] 22:00:23.229 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Resume Template personal\Resume Template.muse
+[00:31:49.375] 22:00:23.356 | Error - IMS : IMSLib not loaded
+[00:31:55.906] 22:00:29.890 | Converting from file format 310 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\soul theme\Soul Free.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 22:00:31 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 22:00:31 2017
+
+[00:32:00.422] 22:00:34.395 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\theme tipo windwos8\Adobe Muse Flat Design.muse with size:5275648 mod Date:Thu Sep 24 15:57:16 GMT-0500 2015
+[00:32:00.422] 22:00:34.401 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\theme tipo windwos8\Adobe Muse Flat Design.muse' with status:success size:5275648 mod Date:Thu Sep 24 15:57:16 GMT-0500 2015 highestUID: 1271
+[00:32:01.437] 22:00:35.415 | Error - IMS : IMSLib not loaded
+[00:32:01.656] 22:00:35.641 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\theme tipo windwos8\Adobe Muse Flat Design.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 22:00:37 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 22:00:37 2017
+
+[00:32:07.625] 22:00:41.606 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\travel-web-design\travel web design.muse with size:5111808 mod Date:Thu Sep 24 16:03:23 GMT-0500 2015
+[00:32:07.640] 22:00:41.620 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\travel-web-design\travel web design.muse' with status:success size:5111808 mod Date:Thu Sep 24 16:03:23 GMT-0500 2015 highestUID: 954
+[00:32:07.672] 22:00:41.655 | Error - IMS : IMSLib not loaded
+[00:32:08.937] 22:00:42.913 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\travel-web-design\travel web design.muse
+Logging in build 2018.0.0.685 started at: Tue Nov 28 22:00:43 2017
+========================================
+
+==========
+Logging ended at: Tue Nov 28 22:00:43 2017
+
+[00:32:14.203] 22:00:48.179 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\urban\Urban Template\Urban.muse with size:3047424 mod Date:Sun Sep 27 12:40:15 GMT-0500 2015
+[00:32:14.219] 22:00:48.192 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\urban\Urban Template\Urban.muse' with status:success size:3047424 mod Date:Sun Sep 27 12:40:15 GMT-0500 2015 highestUID: 1035
+[00:32:16.078] 22:00:50.060 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\urban\Urban Template\Urban.muse
+[00:32:44.109] 22:01:18.082 | Error - IMS : IMSLib not loaded
+[00:33:02.969] 22:01:36.953 | Error - IMS : IMSLib not loaded
+[00:33:40.140] 22:02:14.120 | Error - IMS : IMSLib not loaded
+[00:33:57.890] 22:02:31.870 | Error - IMS : IMSLib not loaded
+[00:34:14.812] 22:02:48.785 | Error - IMS : IMSLib not loaded
+[00:34:50.265] 22:03:24.243 | Error - IMS : IMSLib not loaded
+[00:35:08.750] 22:03:42.736 | Error - IMS : IMSLib not loaded
+[00:35:32.797] 22:04:06.774 | Error - IMS : IMSLib not loaded
+[00:35:50.344] 22:04:24.324 | Error - IMS : IMSLib not loaded
+[00:36:05.047] 22:04:39.032 | Error - IMS : IMSLib not loaded
+[00:36:21.359] 22:04:55.336 | Error - IMS : IMSLib not loaded
+[00:36:56.297] 22:05:30.276 | Error - IMS : IMSLib not loaded
+[00:36:56.406] 22:05:30.389 | quitWithUI:Quitting Application. Called by: 
+[00:37:00.203] 22:05:34.184 | Quitting Application after 36.9 minutes. Called by: 
+[00:37:06.234] Logging shutdown normally
+
+==========
+Logging ended at: Tue Nov 28 22:05:40 2017
+
+Logging in build 2018.0.0.685 started at: Thu Dec  7 11:06:11 2017
+========================================
+[00:00:14.469] 11:06:30.071 | Error - IMS : IMSLib not loaded
+[03:08:31.187] 14:14:46.664 | quitWithUI:Quitting Application. Called by: 
+[03:08:31.281] 14:14:46.898 | Quitting Application after 188.4 minutes. Called by: 
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:50:36 2017
+========================================
+[00:00:12.516] 12:50:51.826 | Error - IMS : IMSLib not loaded
+[00:00:22.109] 12:51:01.420 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse with size:3670016 mod Date:Thu Sep 24 15:57:04 GMT-0500 2015
+[00:00:22.109] 12:51:01.429 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse' with status:success size:3670016 mod Date:Thu Sep 24 15:57:04 GMT-0500 2015 highestUID: 675
+[00:00:24.437] 12:51:03.746 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:52:27 2017
+========================================
+[00:01:48.687] 12:52:27.999 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse with size:5275648 mod Date:Thu Sep 24 15:57:30 GMT-0500 2015
+[00:01:48.687] 12:52:28.004 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse' with status:success size:5275648 mod Date:Thu Sep 24 15:57:30 GMT-0500 2015 highestUID: 2477
+
+==========
+Logging ended at: Mon Dec 11 12:52:28 2017
+
+[00:01:50.766] 12:52:30.073 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:53:18 2017
+========================================
+[00:02:39.125] 12:53:18.433 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme\Adobe Muse Free Theme.muse with size:3211264 mod Date:Tue Aug 5 20:46:10 GMT-0500 2014
+[00:02:39.125] 12:53:18.439 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme\Adobe Muse Free Theme.muse' with status:success size:3211264 mod Date:Tue Aug 5 20:46:10 GMT-0500 2014 highestUID: 4426
+
+==========
+Logging ended at: Mon Dec 11 12:53:18 2017
+
+[00:02:39.844] 12:53:19.161 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme\Adobe Muse Free Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:55:41 2017
+========================================
+[00:05:02.531] 12:55:41.842 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe Muse Free Theme\Adobe Muse Free Theme.muse with size:3211264 mod Date:Tue Aug 5 20:46:10 GMT-0500 2014
+[00:05:02.531] 12:55:41.848 | Opening file 'C:\Users\Administrador\Documents\p\Adobe Muse Free Theme\Adobe Muse Free Theme.muse' with status:success size:3211264 mod Date:Tue Aug 5 20:46:10 GMT-0500 2014 highestUID: 4426
+
+==========
+Logging ended at: Mon Dec 11 12:55:41 2017
+
+[00:05:03.984] 12:55:43.298 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe Muse Free Theme\Adobe Muse Free Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:56:21 2017
+========================================
+[00:05:42.469] 12:56:21.774 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse with size:3211264 mod Date:Thu Sep 24 21:55:47 GMT-0500 2015
+[00:05:42.469] 12:56:21.780 | Opening file 'C:\Users\Administrador\Documents\p\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse' with status:success size:3211264 mod Date:Thu Sep 24 21:55:47 GMT-0500 2015 highestUID: 4426
+
+==========
+Logging ended at: Mon Dec 11 12:56:21 2017
+
+[00:05:43.437] 12:56:22.753 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:56:56 2017
+========================================
+[00:06:17.734] 12:56:57.046 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe Muse Free Theme descargas\Adobe Muse Free Theme galeria buena\Adobe Muse Free Theme.muse with size:3211264 mod Date:Thu Sep 24 21:55:55 GMT-0500 2015
+[00:06:17.734] 12:56:57.051 | Opening file 'C:\Users\Administrador\Documents\p\Adobe Muse Free Theme descargas\Adobe Muse Free Theme galeria buena\Adobe Muse Free Theme.muse' with status:success size:3211264 mod Date:Thu Sep 24 21:55:55 GMT-0500 2015 highestUID: 4426
+
+==========
+Logging ended at: Mon Dec 11 12:56:57 2017
+
+[00:06:18.719] 12:56:58.028 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe Muse Free Theme descargas\Adobe Muse Free Theme galeria buena\Adobe Muse Free Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:57:29 2017
+========================================
+[00:06:50.641] 12:57:29.950 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse with size:5505024 mod Date:Thu Sep 24 16:09:17 GMT-0500 2015
+[00:06:50.641] 12:57:29.955 | Opening file 'C:\Users\Administrador\Documents\p\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse' with status:success size:5505024 mod Date:Thu Sep 24 16:09:17 GMT-0500 2015 highestUID: 1281
+
+==========
+Logging ended at: Mon Dec 11 12:57:29 2017
+
+[00:06:51.406] 12:57:30.724 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:59:01 2017
+========================================
+[00:08:21.922] 12:59:01.237 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse with size:7438336 mod Date:Thu Sep 24 16:09:53 GMT-0500 2015
+[00:08:21.937] 12:59:01.247 | Opening file 'C:\Users\Administrador\Documents\p\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse' with status:success size:7438336 mod Date:Thu Sep 24 16:09:53 GMT-0500 2015 highestUID: 2681
+
+==========
+Logging ended at: Mon Dec 11 12:59:01 2017
+
+[00:08:22.937] 12:59:02.253 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 12:59:12 2017
+========================================
+[00:08:32.844] 12:59:12.157 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse with size:5767168 mod Date:Thu Sep 24 16:10:38 GMT-0500 2015
+[00:08:32.859] 12:59:12.168 | Opening file 'C:\Users\Administrador\Documents\p\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse' with status:success size:5767168 mod Date:Thu Sep 24 16:10:38 GMT-0500 2015 highestUID: 1229
+
+==========
+Logging ended at: Mon Dec 11 12:59:12 2017
+
+[00:08:33.703] 12:59:13.020 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 13:01:00 2017
+========================================
+[00:10:21.625] 13:01:00.936 | Trying to open file 'C:\Users\Administrador\Documents\p\adobe-muse-blog-theme\Adobe Muse Blog Theme.muse with size:3178496 mod Date:Thu Sep 24 21:32:59 GMT-0500 2015
+[00:10:21.641] 13:01:00.947 | Opening file 'C:\Users\Administrador\Documents\p\adobe-muse-blog-theme\Adobe Muse Blog Theme.muse' with status:success size:3178496 mod Date:Thu Sep 24 21:32:59 GMT-0500 2015 highestUID: 953
+
+==========
+Logging ended at: Mon Dec 11 13:01:00 2017
+
+[00:10:22.594] 13:01:01.912 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Documents\p\adobe-muse-blog-theme\Adobe Muse Blog Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 13:03:43 2017
+========================================
+[00:13:03.844] 13:03:43.158 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse with size:4521984 mod Date:Thu Sep 24 21:33:37 GMT-0500 2015
+[00:13:03.859] 13:03:43.168 | Opening file 'C:\Users\Administrador\Documents\p\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse' with status:success size:4521984 mod Date:Thu Sep 24 21:33:37 GMT-0500 2015 highestUID: 1461
+
+==========
+Logging ended at: Mon Dec 11 13:03:43 2017
+
+[00:13:04.922] 13:03:44.231 | Converting from file format 284 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 13:04:26 2017
+========================================
+[00:13:47.516] 13:04:26.830 | Trying to open file 'C:\Users\Administrador\Documents\p\adobe-muse-landing-page calidad\adobe muse landing page.muse with size:5701632 mod Date:Thu Sep 24 21:34:01 GMT-0500 2015
+[00:13:47.531] 13:04:26.842 | Opening file 'C:\Users\Administrador\Documents\p\adobe-muse-landing-page calidad\adobe muse landing page.muse' with status:success size:5701632 mod Date:Thu Sep 24 21:34:01 GMT-0500 2015 highestUID: 1330
+
+==========
+Logging ended at: Mon Dec 11 13:04:26 2017
+
+[00:13:48.641] 13:04:27.946 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Documents\p\adobe-muse-landing-page calidad\adobe muse landing page.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 13:05:05 2017
+========================================
+[00:14:26.062] 13:05:05.370 | Trying to open file 'C:\Users\Administrador\Documents\p\Adobe-Muse-Online-Store\Adobe Muse Online Store.muse with size:1703936 mod Date:Thu Sep 24 21:34:08 GMT-0500 2015
+[00:14:26.062] 13:05:05.375 | Opening file 'C:\Users\Administrador\Documents\p\Adobe-Muse-Online-Store\Adobe Muse Online Store.muse' with status:success size:1703936 mod Date:Thu Sep 24 21:34:08 GMT-0500 2015 highestUID: 977
+
+==========
+Logging ended at: Mon Dec 11 13:05:05 2017
+
+[00:14:27.016] 13:05:06.323 | Converting from file format 284 to format 379 for file:C:\Users\Administrador\Documents\p\Adobe-Muse-Online-Store\Adobe Muse Online Store.muse
+[00:47:19.609] 13:37:58.929 | quitWithUI:Quitting Application. Called by: 
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:42:33 2017
+========================================
+[00:00:14.594] 22:42:50.516 | Error - IMS : IMSLib not loaded
+[00:00:25.985] 22:43:01.907 | Doing recovery for C:\Users\Administrador\Documents\p\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse minisave fileA:zGALQFIQ54MXFHp4-5d8tg fileB:kMVlQsCknS5KdVrui6V4Pw
+[00:00:25.985] 22:43:01.908 | Trying to recover file:C:\Users\Administrador\Documents\p\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse with size:5767168 with mod date:Thu Sep 24 16:10:38 GMT-0500 2015
+[00:00:26.141] 22:43:02.054 | Calling initializeMiniSaveConnections for already initialized connections
+[00:00:27.985] 22:43:03.913 | Recovered file:Adobe Muse Website Templates path:C:\Users\Administrador\Documents\p\Adobe Muse Website Templates sencilla\Adobe Muse Website Templates.muse highest UID:1620 filesize:5767168 mod date:Thu Sep 24 16:10:38 GMT-0500 2015
+[00:00:30.688] 22:43:06.605 | Doing recovery for C:\Users\Administrador\Documents\p\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse minisave fileA:fYxHE3jM6xUP5MMoK9i3uw fileB:WodZpQpBDuofZIo-0XVa4Q
+[00:00:30.688] 22:43:06.606 | Trying to recover file:C:\Users\Administrador\Documents\p\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse with size:7438336 with mod date:Thu Sep 24 16:09:53 GMT-0500 2015
+[00:00:30.985] 22:43:06.906 | Calling initializeMiniSaveConnections for already initialized connections
+[00:00:31.953] 22:43:07.873 | Recovered file:Adobe Muse Landing Theme path:C:\Users\Administrador\Documents\p\Adobe Muse Landing Theme bonit\Adobe Muse Landing Theme.muse highest UID:2972 filesize:7438336 mod date:Thu Sep 24 16:09:53 GMT-0500 2015
+[00:00:32.078] 22:43:08.004 | Doing recovery for C:\Users\Administrador\Documents\p\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse minisave fileA:2QSN06Fo7jx-VBhXILRo6Q fileB:Seuwn6ZdXhwR89zjJjKnYg
+[00:00:32.078] 22:43:08.005 | Trying to recover file:C:\Users\Administrador\Documents\p\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse with size:4521984 with mod date:Thu Sep 24 21:33:37 GMT-0500 2015
+[00:00:32.188] 22:43:08.101 | Calling initializeMiniSaveConnections for already initialized connections
+[00:00:33.391] 22:43:09.307 | Recovered file:Adobe Muse Free Template path:C:\Users\Administrador\Documents\p\Adobe-Muse-Free-Template\Adobe Muse Free Template.muse highest UID:1773 filesize:4521984 mod date:Thu Sep 24 21:33:37 GMT-0500 2015
+[00:00:33.438] 22:43:09.365 | Doing recovery for C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse minisave fileA:07FAycF-fmkb9QoHbUkPtQ fileB:N7Am-JDO5Tblr3aUOMjtjg
+[00:00:33.438] 22:43:09.366 | Trying to recover file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse with size:5275648 with mod date:Thu Sep 24 15:57:30 GMT-0500 2015
+[00:00:33.766] 22:43:09.690 | Calling initializeMiniSaveConnections for already initialized connections
+[00:00:34.641] 22:43:10.557 | Recovered file:Adobe Muse Free Premium Theme path:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Premium Theme\Adobe Muse Free Premium Theme.muse highest UID:2857 filesize:5275648 mod date:Thu Sep 24 15:57:30 GMT-0500 2015
+[00:00:34.735] 22:43:10.656 | Recovery Complete
+[00:00:34.907] 22:43:10.822 | Trying to open file 'C:\Users\Administrador\Documents\p\adobe-muse-templates\Adobe Muse Templates.muse with size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015
+[00:00:34.907] 22:43:10.830 | Opening file 'C:\Users\Administrador\Documents\p\adobe-muse-templates\Adobe Muse Templates.muse' with status:success size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015 highestUID: 461
+[00:00:34.922] 22:43:10.845 | Trying to open file 'C:\Users\Administrador\Documents\p\adobe-muse-templates\Adobe Muse Templates.muse with size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015
+[00:00:34.938] 22:43:10.853 | Opening file 'C:\Users\Administrador\Documents\p\adobe-muse-templates\Adobe Muse Templates.muse' with status:success size:1998848 mod Date:Thu Sep 24 21:34:14 GMT-0500 2015 highestUID: 461
+[00:00:35.782] 22:43:11.695 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Documents\p\adobe-muse-templates\Adobe Muse Templates.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:46:48 2017
+========================================
+[00:04:12.657] 22:46:48.580 | Trying to open file 'C:\Users\Administrador\Documents\p\beauty-muse-theme\Beauty Muse Theme.muse with size:1736704 mod Date:Thu Sep 24 21:34:22 GMT-0500 2015
+[00:04:12.672] 22:46:48.589 | Opening file 'C:\Users\Administrador\Documents\p\beauty-muse-theme\Beauty Muse Theme.muse' with status:success size:1736704 mod Date:Thu Sep 24 21:34:22 GMT-0500 2015 highestUID: 411
+
+==========
+Logging ended at: Mon Dec 11 22:46:48 2017
+
+[00:04:13.422] 22:46:49.342 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Documents\p\beauty-muse-theme\Beauty Muse Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:47:46 2017
+========================================
+[00:05:10.750] 22:47:46.668 | Trying to open file 'C:\Users\Administrador\Documents\p\Free Muse Features Block\Free Muse Features Block.muse with size:720896 mod Date:Wed Jul 30 23:49:52 GMT-0500 2014
+[00:05:10.750] 22:47:46.673 | Opening file 'C:\Users\Administrador\Documents\p\Free Muse Features Block\Free Muse Features Block.muse' with status:success size:720896 mod Date:Wed Jul 30 23:49:52 GMT-0500 2014 highestUID: 711
+
+==========
+Logging ended at: Mon Dec 11 22:47:46 2017
+
+[00:05:11.594] 22:47:47.520 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Documents\p\Free Muse Features Block\Free Muse Features Block.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:47:52 2017
+========================================
+
+==========
+Logging ended at: Mon Dec 11 22:47:52 2017
+
+[00:05:17.360] 22:47:53.273 | Trying to open file 'C:\Users\Administrador\Documents\p\Free Muse Theme\Free Muse Theme.muse with size:3866624 mod Date:Thu Sep 24 21:35:05 GMT-0500 2015
+[00:05:17.360] 22:47:53.279 | Opening file 'C:\Users\Administrador\Documents\p\Free Muse Theme\Free Muse Theme.muse' with status:success size:3866624 mod Date:Thu Sep 24 21:35:05 GMT-0500 2015 highestUID: 725
+[00:05:18.641] 22:47:54.555 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Documents\p\Free Muse Theme\Free Muse Theme.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:48:35 2017
+========================================
+[00:05:59.875] 22:48:35.804 | Trying to open file 'C:\Users\Administrador\Documents\p\free-website-design posible\free website design.muse with size:4947968 mod Date:Thu Sep 24 15:56:20 GMT-0500 2015
+[00:05:59.891] 22:48:35.815 | Opening file 'C:\Users\Administrador\Documents\p\free-website-design posible\free website design.muse' with status:success size:4947968 mod Date:Thu Sep 24 15:56:20 GMT-0500 2015 highestUID: 865
+
+==========
+Logging ended at: Mon Dec 11 22:48:35 2017
+
+[00:06:00.688] 22:48:36.601 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Documents\p\free-website-design posible\free website design.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:49:32 2017
+========================================
+[00:06:56.360] 22:49:32.286 | Trying to open file 'C:\Users\Administrador\Documents\p\Grill Template\Grill.muse with size:3244032 mod Date:Mon May 12 09:12:54 GMT-0500 2014
+[00:06:56.375] 22:49:32.292 | Opening file 'C:\Users\Administrador\Documents\p\Grill Template\Grill.muse' with status:success size:3244032 mod Date:Mon May 12 09:12:54 GMT-0500 2014 highestUID: 699
+
+==========
+Logging ended at: Mon Dec 11 22:49:32 2017
+
+[00:06:57.282] 22:49:33.208 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Documents\p\Grill Template\Grill.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:50:11 2017
+========================================
+[00:07:35.922] 22:50:11.846 | Trying to open file 'C:\Users\Administrador\Documents\p\holiday no me gusta\Holiday Template\Holiday.muse with size:11108352 mod Date:Sun Sep 27 13:04:31 GMT-0500 2015
+[00:07:35.953] 22:50:11.867 | Opening file 'C:\Users\Administrador\Documents\p\holiday no me gusta\Holiday Template\Holiday.muse' with status:success size:11108352 mod Date:Sun Sep 27 13:04:31 GMT-0500 2015 highestUID: 2682
+
+==========
+Logging ended at: Mon Dec 11 22:50:11 2017
+
+[00:07:36.922] 22:50:12.841 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Documents\p\holiday no me gusta\Holiday Template\Holiday.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:50:54 2017
+========================================
+[00:08:18.891] 22:50:54.813 | Trying to open file 'C:\Users\Administrador\Documents\p\muse-one-page si\Muse One Page.muse with size:2162688 mod Date:Thu Sep 24 21:35:42 GMT-0500 2015
+[00:08:18.907] 22:50:54.823 | Opening file 'C:\Users\Administrador\Documents\p\muse-one-page si\Muse One Page.muse' with status:success size:2162688 mod Date:Thu Sep 24 21:35:42 GMT-0500 2015 highestUID: 440
+
+==========
+Logging ended at: Mon Dec 11 22:50:54 2017
+
+[00:08:19.735] 22:50:55.657 | Converting from file format 295 to format 379 for file:C:\Users\Administrador\Documents\p\muse-one-page si\Muse One Page.muse
+[00:08:32.735] 22:51:08.653 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:08:32.750] 22:51:08.676 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+[00:08:32.782] 22:51:08.698 | Warning: Failed to find {param_width} in HTML string to replace in widget:Font Awesome Icons
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:51:36 2017
+========================================
+[00:09:00.360] 22:51:36.283 | Trying to open file 'C:\Users\Administrador\Documents\p\One Page Muse Template\One Page Muse Template.muse with size:4882432 mod Date:Thu Sep 24 21:36:04 GMT-0500 2015
+[00:09:00.375] 22:51:36.289 | Opening file 'C:\Users\Administrador\Documents\p\One Page Muse Template\One Page Muse Template.muse' with status:success size:4882432 mod Date:Thu Sep 24 21:36:04 GMT-0500 2015 highestUID: 1785
+
+==========
+Logging ended at: Mon Dec 11 22:51:36 2017
+
+[00:09:01.563] 22:51:37.485 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Documents\p\One Page Muse Template\One Page Muse Template.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:53:38 2017
+========================================
+[00:11:02.922] 22:53:38.845 | Trying to open file 'C:\Users\Administrador\Documents\p\urban\Urban Template\Urban.muse with size:3047424 mod Date:Sun Sep 27 12:40:15 GMT-0500 2015
+[00:11:02.938] 22:53:38.852 | Opening file 'C:\Users\Administrador\Documents\p\urban\Urban Template\Urban.muse' with status:success size:3047424 mod Date:Sun Sep 27 12:40:15 GMT-0500 2015 highestUID: 1035
+
+==========
+Logging ended at: Mon Dec 11 22:53:38 2017
+
+Logging in build 2018.0.0.685 started at: Mon Dec 11 22:53:38 2017
+========================================
+[00:11:02.969] 22:53:38.897 | Trying to open file 'C:\Users\Administrador\Documents\p\urban\Urban Template\Urban.muse with size:3047424 mod Date:Sun Sep 27 12:40:15 GMT-0500 2015
+[00:11:02.985] 22:53:38.903 | Opening file 'C:\Users\Administrador\Documents\p\urban\Urban Template\Urban.muse' with status:success size:3047424 mod Date:Sun Sep 27 12:40:15 GMT-0500 2015 highestUID: 1035
+
+==========
+Logging ended at: Mon Dec 11 22:53:38 2017
+
+[00:11:03.719] 22:53:39.639 | Converting from file format 244 to format 379 for file:C:\Users\Administrador\Documents\p\urban\Urban Template\Urban.muse
+Logging in build 2018.0.0.685 started at: Mon Dec 11 23:02:51 2017
+========================================
+[00:20:15.797] 23:02:51.712 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\index.muse with size:8749056 mod Date:Sat Nov 25 00:30:14 GMT-0500 2017
+[00:20:15.813] 23:02:51.728 | Opening file 'C:\Users\Administrador\Desktop\proyect\index.muse' with status:success size:8749056 mod Date:Sat Nov 25 00:30:14 GMT-0500 2017 highestUID: 3801
+
+==========
+Logging ended at: Mon Dec 11 23:02:51 2017
+
+Logging in build 2018.0.0.685 started at: Mon Dec 11 23:04:51 2017
+========================================
+[00:22:15.844] 23:04:51.758 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\index.muse with size:8749056 mod Date:Sat Nov 25 00:30:14 GMT-0500 2017
+[00:22:15.844] 23:04:51.767 | Opening file 'C:\Users\Administrador\Desktop\proyect\index.muse' with status:success size:8749056 mod Date:Sat Nov 25 00:30:14 GMT-0500 2017 highestUID: 3801
+
+==========
+Logging ended at: Mon Dec 11 23:04:51 2017
+
+[00:23:10.719] 23:05:46.640 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:3801
+[00:23:11.453] 23:05:47.370 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:8749056 mod Date:Mon Dec 11 23:05:47 GMT-0500 2017 highest UID:3801
+Logging in build 2018.0.0.685 started at: Tue Dec 12 00:59:11 2017
+========================================
+[02:16:37.610] 00:59:13.489 | Trying to open file 'F:\CICA\Proyecto\index.muse with size:4292608 mod Date:Sat Nov 25 00:30:40 GMT-0500 2017
+[02:16:37.641] 00:59:13.559 | Opening file 'F:\CICA\Proyecto\index.muse' with status:success size:4292608 mod Date:Sat Nov 25 00:30:40 GMT-0500 2017 highestUID: 1192
+
+==========
+Logging ended at: Tue Dec 12 00:59:14 2017
+
+[02:17:20.891] 00:59:56.806 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[02:17:20.891] 00:59:56.809 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[02:17:20.891] 00:59:56.812 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[02:17:20.891] 00:59:56.815 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[02:36:02.797] 01:18:38.721 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:3991
+[02:36:03.672] 01:18:39.594 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:8749056 mod Date:Tue Dec 12 01:18:39 GMT-0500 2017 highest UID:3991
+[02:50:23.719] MuseErrorManager:MuseException: Invalid type conversion.
+[03:12:51.172] 01:55:27.088 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:4043
+[03:12:52.047] 01:55:27.973 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:8749056 mod Date:Tue Dec 12 01:55:27 GMT-0500 2017 highest UID:4043
+[03:17:07.328] 01:59:43.247 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:4083
+[03:17:08.594] 01:59:44.509 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:8749056 mod Date:Tue Dec 12 01:59:44 GMT-0500 2017 highest UID:4083
+[03:18:11.766] 02:00:47.691 | UID: U3320 not found in site 'index'
+[03:18:11.766] 02:00:47.693 | UID: U3322 not found in site 'index'
+[03:18:19.860] 02:00:55.778 | UID: U4029 not found in site 'index'
+[03:18:19.860] 02:00:55.780 | UID: U4031 not found in site 'index'
+[03:18:20.094] 02:00:56.012 | UID: U4006 not found in site 'index'
+[03:18:20.094] 02:00:56.013 | UID: U4008 not found in site 'index'
+[03:18:20.391] 02:00:56.315 | UID: U4016 not found in site 'index'
+[03:18:20.391] 02:00:56.316 | UID: U4018 not found in site 'index'
+[03:18:20.500] 02:00:56.420 | UID: U3891 not found in site 'index'
+[03:18:20.500] 02:00:56.420 | UID: U3893 not found in site 'index'
+[04:34:33.563] 03:17:09.482 | Beginning SaveAs of 'index' to file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:4450
+[04:34:37.485] 03:17:13.404 | SaveAs complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:9404416 mod Date:Tue Dec 12 03:17:12 GMT-0500 2017 highest UID:4450
+[04:34:40.407] 03:17:16.335 | quitWithUI:Quitting Application. Called by: 
+[04:34:53.297] 03:17:29.225 | Quitting Application after 274.7 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+onCloseComplete+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent
+                                                                                                      Logging in build 2018.0.0.685 started at: Tue Dec 12 11:46:10 2017
+========================================
+[00:00:50.235] 11:47:14.981 | Error - IMS : IMSLib not loaded
+[00:01:08.797] 11:47:33.596 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\index.muse with size:9404416 mod Date:Tue Dec 12 03:17:12 GMT-0500 2017
+[00:01:08.813] 11:47:33.608 | Opening file 'C:\Users\Administrador\Desktop\proyect\index.muse' with status:success size:9404416 mod Date:Tue Dec 12 03:17:12 GMT-0500 2017 highestUID: 4450
+[00:09:59.172] MuseErrorManager:MuseException: Invalid type conversion.
+Logging in build 2018.0.0.685 started at: Tue Dec 12 12:10:02 2017
+========================================
+[00:23:37.266] 12:10:02.070 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse with size:3670016 mod Date:Thu Sep 24 15:57:04 GMT-0500 2015
+[00:23:37.282] 12:10:02.080 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse' with status:success size:3670016 mod Date:Thu Sep 24 15:57:04 GMT-0500 2015 highestUID: 675
+
+==========
+Logging ended at: Tue Dec 12 12:10:02 2017
+
+[00:23:38.032] 12:10:02.831 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Business Template\Adobe Muse Business Template.muse
+Logging in build 2018.0.0.685 started at: Tue Dec 12 12:10:29 2017
+========================================
+[00:24:04.922] 12:10:29.725 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse with size:3211264 mod Date:Thu Sep 24 21:55:47 GMT-0500 2015
+[00:24:04.938] 12:10:29.736 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse' with status:success size:3211264 mod Date:Thu Sep 24 21:55:47 GMT-0500 2015 highestUID: 4426
+
+==========
+Logging ended at: Tue Dec 12 12:10:29 2017
+
+[00:24:05.766] 12:10:30.559 | Converting from file format 264 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Free Theme descargas\Adobe Muse Free Theme.muse
+Logging in build 2018.0.0.685 started at: Tue Dec 12 12:10:55 2017
+========================================
+[00:24:30.657] 12:10:55.459 | Trying to open file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse with size:5505024 mod Date:Thu Sep 24 16:09:17 GMT-0500 2015
+[00:24:30.672] 12:10:55.469 | Opening file 'C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse' with status:success size:5505024 mod Date:Thu Sep 24 16:09:17 GMT-0500 2015 highestUID: 1281
+
+==========
+Logging ended at: Tue Dec 12 12:10:55 2017
+
+[00:24:31.547] 12:10:56.349 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\40 TEMAS  PLANTILLAS PARA ADOBE MUSE\Adobe Muse Landing Page bonito\Adobe Muse Landing Page.muse
+[02:11:17.891] 13:57:42.695 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:4964
+[02:11:18.938] 13:57:43.731 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:10059776 mod Date:Tue Dec 12 13:57:43 GMT-0500 2017 highest UID:4964
+[02:15:39.782] 14:02:04.588 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:5143
+[02:15:40.532] 14:02:05.334 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:10125312 mod Date:Tue Dec 12 14:02:05 GMT-0500 2017 highest UID:5143
+[03:35:00.110] 15:21:24.903 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:5303
+[03:35:00.938] 15:21:25.744 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:11173888 mod Date:Tue Dec 12 15:21:25 GMT-0500 2017 highest UID:5303
+[04:07:00.375] 15:53:25.172 | Converting from file format 363 to format 379 for file:C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseGrape - Scroll 2 Top\Scroll 2 Top Widget.muse
+[04:07:01.407] 15:53:26.200 | Beginning Save for file 'C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseGrape - Scroll 2 Top\Scroll 2 Top Widget.muse' highest UID:98
+[04:07:01.750] 15:53:26.549 | Save complete for file 'C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseGrape - Scroll 2 Top\Scroll 2 Top Widget.muse' file size:491520 mod Date:Tue Dec 12 15:53:26 GMT-0500 2017 highest UID:98
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.188] 15:54:44.994 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.203] 15:54:44.995 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.203] 15:54:44.995 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.203] 15:54:44.995 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:08:20.282] MuseErrorManager:MuseException: Invalid type conversion.
+[04:09:34.078] 15:55:58.880 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.880 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.880 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.880 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:09:34.078] 15:55:58.881 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.485] 15:59:23.290 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.485] 15:59:23.290 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.485] 15:59:23.290 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.485] 15:59:23.290 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.290 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.291 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.291 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.291 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.291 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.291 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.291 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:12:58.500] 15:59:23.291 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.741 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.741 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:15:36.938] 16:02:01.742 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.372 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.372 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.372 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.372 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:15:46.578] 16:02:11.373 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.938] 16:04:24.743 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.938] 16:04:24.744 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.938] 16:04:24.744 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.938] 16:04:24.744 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.938] 16:04:24.744 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.938] 16:04:24.744 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.953] 16:04:24.744 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.953] 16:04:24.745 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.953] 16:04:24.745 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.953] 16:04:24.745 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.953] 16:04:24.745 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:17:59.953] 16:04:24.745 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.826 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.827 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.827 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.827 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:07.032] 16:04:31.827 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.907 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.908 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.908 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.908 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:10.110] 16:04:34.908 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.039 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.040 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:13.235] 16:04:38.040 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.407 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.407 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.407 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.407 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.407 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.407 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.407 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.408 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.408 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.408 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.408 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:18:51.610] 16:05:16.408 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.451 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.451 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.451 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:19:10.657] 16:05:35.452 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.371 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.371 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.371 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[04:20:44.578] 16:07:09.372 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[04:21:54.000] 16:08:18.794 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:5560
+[04:21:55.125] 16:08:19.930 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017 highest UID:5560
+[04:22:00.953] 16:08:25.749 | quitWithUI:Quitting Application. Called by: 
+[04:22:06.313] 16:08:31.106 | Quitting Application after 261.5 minutes. Called by: 
+[04:23:33.344] Logging shutdown normally
+
+==========
+Logging ended at: Tue Dec 12 16:10:12 2017
+
+Logging in build 2018.0.0.685 started at: Tue Dec 12 20:42:58 2017
+========================================
+[00:00:08.922] 20:43:09.293 | Error - IMS : IMSLib not loaded
+[00:00:16.938] 20:43:17.320 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\index.muse with size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017
+[00:00:16.954] 20:43:17.328 | Opening file 'C:\Users\Administrador\Desktop\proyect\index.muse' with status:success size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017 highestUID: 5560
+[00:00:47.969] 20:43:48.338 | quitWithUI:Quitting Application. Called by: 
+[00:00:48.532] 20:43:48.908 | Quitting Application after 0.7 minutes. Called by: 
+[00:00:51.860] Logging shutdown normally
+
+==========
+Logging ended at: Tue Dec 12 20:43:52 2017
+
+Logging in build 2018.0.0.685 started at: Tue Dec 12 20:45:03 2017
+========================================
+[00:00:04.657] 20:45:08.384 | Error - IMS : IMSLib not loaded
+[00:00:06.032] 20:45:09.781 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse with size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017
+[00:00:06.047] 20:45:09.790 | Opening file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse' with status:success size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017 highestUID: 5560
+[00:03:54.704] 20:48:58.460 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:03:54.704] 20:48:58.461 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:03:54.719] 20:48:58.462 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:03:54.719] 20:48:58.463 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:07:51.141] 20:52:54.886 | quitWithUI:Quitting Application. Called by: 
+[00:07:54.016] 20:52:57.767 | Quitting Application after 7.9 minutes. Called by: 
+[00:07:58.719] Logging shutdown normally
+
+==========
+Logging ended at: Tue Dec 12 20:53:02 2017
+
+Logging in build 2018.0.0.685 started at: Tue Dec 12 20:53:33 2017
+========================================
+[00:00:04.594] 20:53:38.097 | Error - IMS : IMSLib not loaded
+[00:02:10.219] 20:55:43.716 | quitWithUI:Quitting Application. Called by: 
+[00:02:10.219] 20:55:43.718 | Quitting Application after 2.1 minutes. Called by: 
+[00:02:12.485] Logging shutdown normally
+
+==========
+Logging ended at: Tue Dec 12 20:55:46 2017
+
+Logging in build 2018.0.0.685 started at: Tue Dec 12 20:55:48 2017
+========================================
+[00:00:04.641] 20:55:53.020 | Error - IMS : IMSLib not loaded
+[00:00:06.047] 20:55:54.424 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse with size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017
+[00:00:06.063] 20:55:54.433 | Opening file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse' with status:success size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017 highestUID: 5560
+[00:44:05.079] 21:39:53.449 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:44:05.079] 21:39:53.450 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:44:05.079] 21:39:53.451 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:44:05.079] 21:39:53.452 | hasWidgetAnyResponsivePart partTypePageItem::menu_typenot supported
+[00:50:34.157] 21:46:22.534 | quitWithUI:Quitting Application. Called by: 
+[00:50:36.375] 21:46:24.744 | Quitting Application after 50.6 minutes. Called by: 
+[00:50:40.485] Logging shutdown normally
+
+==========
+Logging ended at: Tue Dec 12 21:46:28 2017
+
+Logging in build 2018.0.0.685 started at: Tue Dec 12 21:46:35 2017
+========================================
+[00:00:04.688] 21:46:40.361 | Error - IMS : IMSLib not loaded
+[00:00:07.344] 21:46:43.020 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse with size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017
+[00:00:07.360] 21:46:43.028 | Opening file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse' with status:success size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017 highestUID: 5560
+Logging in build 2018.0.0.685 started at: Tue Dec 12 21:56:13 2017
+========================================
+[00:09:37.453] 21:56:13.120 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto SABAR\libreria\portfolio widget.muse with size:7208960 mod Date:Sat Aug 23 11:27:00 GMT-0500 2014
+[00:09:37.453] 21:56:13.124 | Opening file 'C:\Users\Administrador\Desktop\Proyecto SABAR\libreria\portfolio widget.muse' with status:success size:7208960 mod Date:Sat Aug 23 11:27:00 GMT-0500 2014 highestUID: 1810
+
+==========
+Logging ended at: Tue Dec 12 21:56:13 2017
+
+[00:09:38.563] 21:56:14.239 | Converting from file format 276 to format 379 for file:C:\Users\Administrador\Desktop\Proyecto SABAR\libreria\portfolio widget.muse
+[00:59:49.485] 22:46:25.160 | Converting from file format 310 to format 379 for file:C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseFree.com\Clip-Path Animation.muse
+[00:59:52.969] 22:46:28.642 | Beginning Save for file 'C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseFree.com\Clip-Path Animation.muse' highest UID:91
+[00:59:53.297] 22:46:28.973 | Save complete for file 'C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseFree.com\Clip-Path Animation.muse' file size:458752 mod Date:Tue Dec 12 22:46:28 GMT-0500 2017 highest UID:91
+[01:00:02.282] 22:46:37.948 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:00:37.797] 22:47:13.472 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:00:44.391] 22:47:20.057 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:00:56.266] 22:47:31.945 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:01:07.047] 22:47:42.724 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:01:18.672] 22:47:54.345 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:01:26.344] 22:48:02.017 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:01:36.391] 22:48:12.068 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:01:44.891] 22:48:20.562 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:03:12.313] 22:49:47.984 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:03:20.047] 22:49:55.722 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:03:27.297] 22:50:02.966 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:04:01.797] 22:50:37.471 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:04:27.297] 22:51:02.973 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:05:50.016] 22:52:25.681 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:06:26.594] 22:53:02.264 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:06:43.344] 22:53:19.013 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:06:55.516] 22:53:31.181 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:07:15.516] 22:53:51.184 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:07:31.141] 22:54:06.816 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:07:59.891] 22:54:35.558 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:08:07.391] 22:54:43.062 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:08:17.141] 22:54:52.805 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:08:49.438] 22:55:25.107 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:08:57.844] 22:55:33.516 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:09:06.235] 22:55:41.900 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:09:24.672] 22:56:00.346 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:09:25.828] 22:56:01.499 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:10:56.922] 22:57:32.589 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:12:36.453] 22:59:12.120 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:14:28.875] 23:01:04.554 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse' highest UID:6716
+[01:14:30.313] 23:01:05.985 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse' file size:14188544 mod Date:Tue Dec 12 23:01:05 GMT-0500 2017 highest UID:6716
+[01:14:46.297] 23:01:21.972 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:15:44.063] 23:02:19.731 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:15:45.641] 23:02:21.309 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:16:27.125] 23:03:02.799 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:17:57.188] 23:04:32.866 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:17:58.891] 23:04:34.566 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:19:34.469] 23:06:10.134 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:20:30.844] 23:07:06.521 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:23:40.594] 23:10:16.271 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:23:51.328] 23:10:26.994 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:24:25.047] 23:11:00.726 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[01:25:27.313] 23:12:02.979 | quitWithUI:Quitting Application. Called by: 
+[01:25:33.782] 23:12:09.449 | Quitting Application after 85.5 minutes. Called by: 
+Logging in build 2018.0.0.685 started at: Tue Dec 12 23:12:35 2017
+========================================
+[01:25:59.610] 23:12:35.286 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse with size:14188544 mod Date:Tue Dec 12 23:01:05 GMT-0500 2017
+[01:25:59.625] 23:12:35.300 | Opening file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse' with status:success size:14188544 mod Date:Tue Dec 12 23:01:05 GMT-0500 2017 highestUID: 6716
+
+==========
+Logging ended at: Tue Dec 12 23:12:35 2017
+
+[01:26:14.313] Logging shutdown normally
+
+==========
+Logging ended at: Tue Dec 12 23:12:52 2017
+
+Logging in build 2018.0.0.685 started at: Tue Dec 12 23:12:55 2017
+========================================
+[00:00:07.218] 23:13:03.249 | Error - IMS : IMSLib not loaded
+[00:00:14.187] 23:13:10.213 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse with size:14188544 mod Date:Tue Dec 12 23:01:05 GMT-0500 2017
+[00:00:14.187] 23:13:10.222 | Opening file 'C:\Users\Administrador\Desktop\Proyecto SABAR\index.muse' with status:success size:14188544 mod Date:Tue Dec 12 23:01:05 GMT-0500 2017 highestUID: 6716
+[00:00:46.140] 23:13:42.174 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[00:01:24.797] 23:14:20.828 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[00:01:26.578] 23:14:22.607 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+Logging in build 2018.0.0.685 started at: Tue Dec 12 23:14:47 2017
+========================================
+[00:01:51.250] 23:14:47.289 | Trying to open file 'C:\Users\Administrador\Desktop\proyect\index.muse with size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017
+[00:01:51.265] 23:14:47.302 | Opening file 'C:\Users\Administrador\Desktop\proyect\index.muse' with status:success size:11173888 mod Date:Tue Dec 12 16:08:19 GMT-0500 2017 highestUID: 5560
+
+==========
+Logging ended at: Tue Dec 12 23:14:47 2017
+
+[00:04:21.922] 23:17:17.947 | Beginning Save for file 'C:\Users\Administrador\Desktop\proyect\index.muse' highest UID:5842
+[00:04:22.609] 23:17:18.642 | Save complete for file 'C:\Users\Administrador\Desktop\proyect\index.muse' file size:13369344 mod Date:Tue Dec 12 23:17:18 GMT-0500 2017 highest UID:5842
+Logging in build 2018.0.0.685 started at: Tue Dec 12 23:19:12 2017
+========================================
+[00:06:16.359] 23:19:12.385 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse with size:13369344 mod Date:Tue Dec 12 23:17:18 GMT-0500 2017
+[00:06:16.359] 23:19:12.395 | Opening file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' with status:success size:13369344 mod Date:Tue Dec 12 23:17:18 GMT-0500 2017 highestUID: 5842
+
+==========
+Logging ended at: Tue Dec 12 23:19:12 2017
+
+[00:08:58.203] 23:21:54.238 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.238 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.238 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[00:08:58.203] 23:21:54.239 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[00:09:34.625] 23:22:30.663 | hasWidgetAnyResponsivePart partTypePageItem::form_typenot supported
+[00:09:34.640] 23:22:30.665 | hasWidgetAnyResponsivePart partTypenot supported
+[00:09:34.640] 23:22:30.668 | hasWidgetAnyResponsivePart partTypenot supported
+[00:09:34.656] 23:22:30.684 | hasWidgetAnyResponsivePart partTypenot supported
+[00:09:34.656] 23:22:30.686 | hasWidgetAnyResponsivePart partTypenot supported
+[00:09:34.656] 23:22:30.688 | hasWidgetAnyResponsivePart partTypenot supported
+[00:09:34.656] 23:22:30.690 | hasWidgetAnyResponsivePart partTypenot supported
+[00:09:34.656] 23:22:30.692 | hasWidgetAnyResponsivePart partTypenot supported
+[00:09:34.656] 23:22:30.694 | hasWidgetAnyResponsivePart partTypenot supported
+[00:15:38.375] 23:28:34.402 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[00:16:06.422] 23:29:02.446 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[00:17:27.843] 23:30:23.872 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[00:18:39.468] 23:31:35.496 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[00:18:52.343] 23:31:48.375 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[00:24:48.734] 23:37:44.764 | Converting from file format 344 to format 379 for file:C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseFree.com 2\Expanding Photo Stack.muse
+[00:24:50.468] 23:37:46.496 | Beginning Save for file 'C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseFree.com 2\Expanding Photo Stack.muse' highest UID:98
+[00:24:50.843] 23:37:46.881 | Save complete for file 'C:\Users\Administrador\AppData\Roaming\Adobe\Adobe Muse CC Libraries\2018.0\MuseFree.com 2\Expanding Photo Stack.muse' file size:491520 mod Date:Tue Dec 12 23:37:46 GMT-0500 2017 highest UID:98
+[00:24:58.734] 23:37:54.764 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:24:58.734] 23:37:54.764 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:10.890] 23:38:06.920 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:10.890] 23:38:06.920 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:18.937] 23:38:14.965 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:18.937] 23:38:14.965 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:29.047] 23:38:25.084 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:29.047] 23:38:25.084 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:37.593] 23:38:33.626 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:37.593] 23:38:33.626 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:45.187] 23:38:41.212 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:45.187] 23:38:41.212 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:52.015] 23:38:48.043 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:25:52.015] 23:38:48.043 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:00.343] 23:38:56.370 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:00.343] 23:38:56.371 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:17.750] 23:39:13.789 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:17.750] 23:39:13.789 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:41.015] 23:39:37.053 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:41.015] 23:39:37.053 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:58.640] 23:39:54.674 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:26:58.640] 23:39:54.674 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:12.187] 23:40:08.220 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:12.187] 23:40:08.220 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:15.468] 23:40:11.496 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:15.468] 23:40:11.497 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:19.093] 23:40:15.129 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:19.093] 23:40:15.129 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:50.390] 23:40:46.416 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:50.390] 23:40:46.416 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:56.172] 23:40:52.204 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:56.172] 23:40:52.204 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:04.265] 23:41:00.301 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:04.265] 23:41:00.301 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:36.172] 23:41:32.207 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:36.172] 23:41:32.208 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:44.218] 23:41:40.248 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:44.218] 23:41:40.248 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:49.515] 23:41:45.551 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:28:49.515] 23:41:45.551 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:29:26.468] 23:42:22.503 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:29:26.468] 23:42:22.504 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:29:31.203] 23:42:27.240 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:29:31.203] 23:42:27.240 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:33:26.812] 23:46:22.847 | Warning: Failed to find {param_UniCode} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.847 | Warning: Failed to find {param_ICNSize} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.847 | Warning: Failed to find {param_ICNColor} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.847 | Warning: Failed to find {param_BGColor} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_BTNH} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_BTNW} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_BTNR} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_ICNPosi1} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_ICNPosi2} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_ICNPosi3} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_ANIPosi1} in HTML string to replace in widget:Scroll 2 Top
+[00:33:26.812] 23:46:22.848 | Warning: Failed to find {param_ANIPosi2} in HTML string to replace in widget:Scroll 2 Top
+[00:36:55.593] 23:49:51.632 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:36:55.593] 23:49:51.632 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[01:02:26.718] 00:15:22.756 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6340
+[01:02:28.234] 00:15:24.266 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13959168 mod Date:Wed Dec 13 00:15:24 GMT-0500 2017 highest UID:6340
+[01:05:37.828] 00:18:33.864 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[01:05:37.828] 00:18:33.864 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[01:09:08.359] 00:22:04.392 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[01:09:08.359] 00:22:04.392 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[01:36:35.218] 00:49:31.243 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6368
+[01:36:38.593] 00:49:34.625 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13991936 mod Date:Wed Dec 13 00:49:34 GMT-0500 2017 highest UID:6368
+[01:36:40.797] 00:49:36.826 | quitWithUI:Quitting Application. Called by: 
+[01:36:51.578] 00:49:47.612 | Quitting Application after 96.8 minutes. Called by: 
+[01:39:08.765] Logging shutdown normally
+Logging in build 2018.0.0.685 started at: Wed Dec 13 12:28:35 2017
+========================================
+[00:00:06.907] 12:28:42.836 | Error - IMS : IMSLib not loaded
+[00:00:18.625] 12:28:54.548 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse with size:13991936 mod Date:Wed Dec 13 00:49:34 GMT-0500 2017
+[00:00:18.641] 12:28:54.563 | Opening file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' with status:success size:13991936 mod Date:Wed Dec 13 00:49:34 GMT-0500 2017 highestUID: 6368
+[00:01:07.313] 12:29:43.241 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:01:07.313] 12:29:43.241 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:02.266] 12:55:38.186 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:27:02.266] 12:55:38.186 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:29:02.360] 12:57:38.280 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:29:02.360] 12:57:38.280 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:30:31.907] 12:59:07.823 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:30:31.907] 12:59:07.823 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+Logging in build 2018.0.0.685 started at: Wed Dec 13 19:19:02 2017
+========================================
+[00:00:35.485] 19:19:39.701 | Error - IMS : IMSLib not loaded
+[00:00:58.766] 19:20:02.993 | Doing recovery for C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse minisave fileA:-XqEOd7HVOBcyTl-7--Opg fileB:DT46DM8tgSEE9YCLk2A6lg
+[00:00:58.781] 19:20:02.994 | Trying to recover file:C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse with size:13991936 with mod date:Wed Dec 13 00:49:34 GMT-0500 2017
+[00:00:59.531] 19:20:03.751 | Calling initializeMiniSaveConnections for already initialized connections
+[00:01:11.531] 19:20:15.755 | Recovered file:index path:C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse highest UID:6368 filesize:13991936 mod date:Wed Dec 13 00:49:34 GMT-0500 2017
+[00:01:26.422] 19:20:30.639 | Recovery Complete
+[00:35:20.828] 19:54:25.012 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:35:20.875] 19:54:25.091 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[01:57:51.375] 21:16:55.469 | Beginning SaveAs of 'index' to file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6401
+[01:58:00.453] 21:17:04.679 | SaveAs complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13631488 mod Date:Wed Dec 13 21:17:02 GMT-0500 2017 highest UID:6401
+[01:58:03.141] 21:17:07.364 | quitWithUI:Quitting Application. Called by: 
+[01:58:15.156] 21:17:19.374 | Quitting Application after 117.9 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+onCloseComplete+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent
+[02:00:09.000] Logging shutdown normally
+
+==========
+Logging ended at: Wed Dec 13 21:19:53 2017
+
+Logging in build 2018.0.0.685 started at: Sun Dec 17 23:09:36 2017
+========================================
+[00:00:10.906] 23:09:49.569 | Error - IMS : IMSLib not loaded
+Logging in build 2018.0.0.685 started at: Sun Dec 17 23:13:07 2017
+========================================
+[00:03:29.297] 23:13:07.959 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse with size:13631488 mod Date:Wed Dec 13 21:17:02 GMT-0500 2017
+[00:03:29.312] 23:13:07.977 | Opening file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' with status:success size:13631488 mod Date:Wed Dec 13 21:17:02 GMT-0500 2017 highestUID: 6401
+
+==========
+Logging ended at: Sun Dec 17 23:13:08 2017
+
+[00:03:43.687] 23:13:22.345 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:03:43.687] 23:13:22.346 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:08:08.515] 23:17:47.169 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6401
+[00:08:09.625] 23:17:48.276 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13664256 mod Date:Sun Dec 17 23:17:48 GMT-0500 2017 highest UID:6401
+[00:31:38.500] 23:41:17.155 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:31:38.500] 23:41:17.160 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:37:24.281] 23:47:02.940 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6401
+[00:37:25.406] 23:47:04.069 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13664256 mod Date:Sun Dec 17 23:47:03 GMT-0500 2017 highest UID:6401
+[00:39:15.672] 23:48:54.335 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6474
+[00:39:16.953] 23:48:55.606 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13664256 mod Date:Sun Dec 17 23:48:55 GMT-0500 2017 highest UID:6474
+[00:47:48.281] 23:57:26.940 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:47:48.281] 23:57:26.940 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:48:51.281] 23:58:29.942 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6479
+[00:48:52.406] 23:58:31.071 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13664256 mod Date:Sun Dec 17 23:58:30 GMT-0500 2017 highest UID:6479
+[00:49:06.437] 23:58:45.094 | Beginning Save for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' highest UID:6479
+[00:49:07.312] 23:58:45.972 | Save complete for file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' file size:13664256 mod Date:Sun Dec 17 23:58:45 GMT-0500 2017 highest UID:6479
+[00:52:29.125] 00:02:07.790 | quitWithUI:Quitting Application. Called by: 
+[00:52:32.640] 00:02:11.301 | Quitting Application after 52.4 minutes. Called by: 
+Logging in build 2018.0.0.685 started at: Mon Dec 18 00:02:43 2017
+========================================
+[00:53:14.187] Logging shutdown normally
+
+==========
+Logging ended at: Mon Dec 18 00:02:56 2017
+
+
+==========
+Logging ended at: Mon Dec 18 00:02:56 2017
+
+Logging in build 2018.0.0.685 started at: Mon Dec 18 00:03:02 2017
+========================================
+[00:00:10.156] 00:03:15.351 | Error - IMS : IMSLib not loaded
+[00:00:17.219] 00:03:22.407 | Trying to open file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse with size:13664256 mod Date:Sun Dec 17 23:58:45 GMT-0500 2017
+[00:00:17.234] 00:03:22.418 | Opening file 'C:\Users\Administrador\Desktop\Proyecto_SABAR\index.muse' with status:success size:13664256 mod Date:Sun Dec 17 23:58:45 GMT-0500 2017 highestUID: 6479
+[00:04:16.469] 00:07:21.656 | Warning: Failed to find {param_width} in HTML string to replace in widget:Expanding Photo Stack
+[00:04:16.469] 00:07:21.657 | Warning: Failed to find {param_height} in HTML string to replace in widget:Expanding Photo Stack
+[00:04:19.812] 00:07:25.009 | HTMLExport index(8 pages) to 'www.sabar.com' completed with 3 warnings.
+[00:04:19.812] 00:07:25.009 | 91027:El formulario CONTACT Form está configurado con una dirección de correo electrónico de contact@musetemplatesfree.com que no coincide con el nombre de servidor sabar.com. Algunos proveedores de alojamiento rechazan el envío de correo electrónico desde direcciones de correo de diferentes hosts. Si al enviar el formulario no se envía el correo electrónico correspondiente, cambie la primera dirección de correo electrónico que aparece en el formulario de Muse por una dirección de sabar.com y vuelva a intentarlo.
+[00:04:19.828] 00:07:25.009 | 91023:No se ha exportado el activo C:\Users\Administrador\Desktop\proyect\Photoshop files\view details-GASFITERIA.psd porque no se ha encontrado.
+[00:04:19.828] 00:07:25.010 | 91023:No se ha exportado el activo C:\Users\Administrador\Desktop\proyect\Photoshop files\view details-ELECTRICIDAD.psd porque no se ha encontrado.
+[00:09:05.797] 00:12:10.980 | quitWithUI:Quitting Application. Called by: 
+[00:09:07.109] 00:12:12.303 | Quitting Application after 9 minutes. Called by: 
+[00:09:12.234] Logging shutdown normally
+
+==========
+Logging ended at: Mon Dec 18 00:12:18 2017
+
